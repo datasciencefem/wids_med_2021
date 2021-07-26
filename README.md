@@ -1,2 +1,2 @@
-# wids med 2021
+# WiDS med 2021
 💜
