@@ -184,7 +184,7 @@ h1, h2, h3, h4, h5, h6 {
 # Buy Tickets
 --------------------------------------------------------------*/
 .buy-tickets {
-  color: rgb(255, 253, 255);
+  color: rgb(253, 253, 253);
   /*background: #1e0229;*/
   background: #00b140;
   padding: 7px 22px;
@@ -201,11 +201,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .buy-tickets:hover {
   background: none;
-  color: #fff;
+  color: #00B140;
 }
 
 .buy-tickets:focus {
-  color: #fff;
+  color: #00B140;
 }
 
 @media (max-width: 992px) {
@@ -348,12 +348,13 @@ h1, h2, h3, h4, h5, h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #fff;
+  color: rgb(255, 254, 254);
   font-size: 28px;
   cursor: pointer;
   display: none;
   line-height: 0;
   transition: 0.5s;
+  background-color: #00B140;
 }
 
 @media (max-width: 991px) {
@@ -1483,7 +1484,7 @@ h1, h2, h3, h4, h5, h6 {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #101522;
+  background:white;
   padding: 0 0 25px 0;
   color: #eee;
   font-size: 14px;
