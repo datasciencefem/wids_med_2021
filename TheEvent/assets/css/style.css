@@ -578,7 +578,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .play-btn:hover::after {
-  border-left: 15px solid #929b95  ;
+  border-left: 15px solid #d0b0f1;
   transform: scale(20);
 }
 
