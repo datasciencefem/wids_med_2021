@@ -1064,11 +1064,11 @@ h1, h2, h3, h4, h5, h6 {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #f82249;
+  border: 1px solid #00B140;
 }
 
 #gallery .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #f82249;
+  background-color: #00B140;
 }
 
 #gallery .swiper-slide-active {
@@ -1080,7 +1080,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 40px 0;
   }
   #gallery .swiper-slide-active {
-    border: 5px solid #f82249;
+    border: 5px solid #00B140;
     padding: 4px;
     background: #fff;
     z-index: 1;
