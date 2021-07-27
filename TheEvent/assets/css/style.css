@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   background: #fff;
-  color: #e4e5e7;
+  color: #00B140;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -168,9 +168,9 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10;  
   max-height: 110px;
   margin-bottom: 5px;
-  margin-top: 30px;
-  margin-right: 40px;
-  margin-left: 50px;
+  margin-top: 19px;
+  margin-right: 50px;
+  margin-left: 60px;
   
 }
 
@@ -392,7 +392,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: rgb(36, 2, 34);
+  background-color: #d4b7f475;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -665,7 +665,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #about:before {
   content: "";
-  background: #d4b7f4;
+  background: #550351;
   position: absolute;
   bottom: 0;
   top: 0;
@@ -726,7 +726,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #speakers .speaker .details p {
-  color: #fff;
+  color: #550351;
   font-size: 15px;
   margin-bottom: 10px;
   font-style: italic;
@@ -742,7 +742,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #speakers .speaker .details a {
-  color: #fff;
+  color: #550351;
 }
 
 #speakers .speaker .details a:hover {
@@ -907,14 +907,14 @@ h1, h2, h3, h4, h5, h6 {
 
 #schedule .schedule-item h4 span {
   font-style: italic;
-  color: #19328e;
+  color: #00B140;
   font-weight: normal;
   font-size: 16px;
 }
 
 #schedule .schedule-item p {
   font-style: italic;
-  color: #152b79;
+  color: #550351;
   margin-bottom: 0;
 }
 
@@ -1491,7 +1491,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer .footer-top {
-  background: #d4b7f4;
+
+  background: #550351;
   padding: 60px 0 30px 0;
 }
 
@@ -1543,7 +1544,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #f82249;
+  background: #00b140;
   color: #fff;
 }
 
