@@ -176,7 +176,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 992px) {
   #header #logo img {
-    max-height: 30px;
+    max-height: 60px;
   }
 }
 
@@ -392,7 +392,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: #d4b7f475;
+  background-color: white;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -783,7 +783,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #speakers-details .details .social a:hover {
-  background: #f82249;
+  background: #460331;
   color: #fff;
 }
 
@@ -793,7 +793,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #speakers-details .details p {
-  color: #112363;
+  color: #550351;
   font-size: 15px;
   margin-bottom: 10px;
 }
@@ -1555,7 +1555,7 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
-  border-bottom: 2px solid #f82249;
+  border-bottom: 2px solid white;
 }
 
 #footer .footer-top .footer-links {
@@ -1570,7 +1570,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 5px;
-  color: #f82249;
+  color: white;
   font-size: 18px;
 }
 
@@ -1588,7 +1588,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #f82249;
+  color:  #00B140;
 }
 
 #footer .footer-top .footer-contact {
@@ -1621,7 +1621,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"]:hover {
-  background: #e0072f;
+  background: #00B140;
 }
 
 #footer .copyright {
