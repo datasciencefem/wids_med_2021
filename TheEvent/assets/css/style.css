@@ -746,7 +746,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #speakers .speaker .details a:hover {
-  color: #f82249;
+  color: #00B140;
 }
 
 #speakers .speaker:hover .details {
@@ -758,7 +758,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #speakers-details .details h2 {
-  color: #112363;
+  color: #550351;
   font-size: 28px;
   font-weight: 700;
   margin-bottom: 10px;
@@ -769,8 +769,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #speakers-details .details .social a {
-  background: #e9edfb;
-  color: #112363;
+  background: #00b140;
+  color: white;
   line-height: 1;
   display: inline-block;
   text-align: center;
@@ -822,7 +822,7 @@ h1, h2, h3, h4, h5, h6 {
   border: none;
   border-radius: 50px;
   font-weight: 600;
-  background-color: #0e1b4d;
+  background-color: #550351;
   color: #fff;
   padding: 10px 100px;
 }
@@ -846,7 +846,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #schedule .nav-tabs a.active {
-  background-color: #f82249;
+  background-color: #d4b7f4;
   color: #fff;
 }
 
@@ -1486,12 +1486,12 @@ h1, h2, h3, h4, h5, h6 {
 #footer {
   background:white;
   padding: 0 0 25px 0;
-  color: #eee;
+  color: rgb(0 0 0 / 62%);
   font-size: 14px;
 }
 
 #footer .footer-top {
-  background: #040919;
+  background: #d4b7f4;
   padding: 60px 0 30px 0;
 }
 
@@ -1524,7 +1524,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #footer .footer-top .social-links a {
   display: inline-block;
-  background: #222636;
+  background: #550351;
   color: #eee;
   line-height: 1;
   margin-right: 4px;
@@ -1631,5 +1631,5 @@ h1, h2, h3, h4, h5, h6 {
 #footer .credits {
   text-align: center;
   font-size: 13px;
-  color: #ddd;
+  color: rgb(0 0 0 / 62%);
 }
