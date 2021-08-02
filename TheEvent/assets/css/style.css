@@ -121,12 +121,9 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   font-size: 18px;
   font-weight: 500;
-<<<<<<< HEAD
   color: #550351;
-=======
-  color: #000;
->>>>>>> f3e77c6bf9cfc49669ef917cf41c4d16abcd9bd1
 }
+
 
 .section-with-bg {
   background-color: #f6f7fd;
