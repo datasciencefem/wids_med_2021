@@ -1,4 +1,4 @@
-# WiDS  Medellín LandinPage 
+# WiDS  Medellín LandingPage 
 
 
 - Template Name: TheEvent
