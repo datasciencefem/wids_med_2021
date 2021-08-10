@@ -32,6 +32,8 @@ p {
 }
 .textoWids{
 color: white;
+width: 80%;
+padding-left: 25%;
 }
 
 .Distancia-hora{
@@ -1509,6 +1511,7 @@ text-align: center;
   padding: 0 0 25px 0;
   color: rgb(0 0 0 / 62%);
   font-size: 14px;
+  text-align: center;
 }
 
 #footer .footer-top {
@@ -1533,7 +1536,8 @@ text-align: center;
 
 #footer .footer-top .footer-info img {
   height: 40px;
-  margin-bottom: 10px;
+  margin-bottom: 10%;
+  margin-left: 200%;
 }
 
 #footer .footer-top .footer-info p {
