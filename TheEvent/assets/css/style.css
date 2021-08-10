@@ -1536,9 +1536,21 @@ text-align: center;
 
 #footer .footer-top .footer-info img {
   height: 40px;
+  /* margin-bottom: 10%;
+  margin-left: 200%; */
+}
+
+/* .footer-info img{
   margin-bottom: 10%;
   margin-left: 200%;
-}
+} */
+
+.footer-logo-wids{
+  line-height: 24px;
+  height: 40px;
+  margin-bottom: 1%;
+  /* margin-left: 37%; */
+ }
 
 #footer .footer-top .footer-info p {
   font-size: 14px;
