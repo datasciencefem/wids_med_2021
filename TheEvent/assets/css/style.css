@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
-  color: white;
+  color: #550351;;
 }
 
 .main-page {
@@ -528,7 +528,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero p {
-  color: white;
+  color:;
   font-weight: 700;
   font-size: 20px;
 }
