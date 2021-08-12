@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
-  color: #550351;
+  color: white;
 }
 
 .main-page {
@@ -510,7 +510,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero h1 {
-  color:#550351;
+  color:white;
   font-family: "Raleway", sans-serif;
   font-size: 56px;
   font-weight: 600;
@@ -528,7 +528,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero p {
-  color: #22021f;
+  color: white;
   font-weight: 700;
   font-size: 20px;
 }
