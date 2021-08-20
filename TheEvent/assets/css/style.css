@@ -532,7 +532,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero p {
-  color:;
+  color: white;
   font-weight: 700;
   font-size: 20px;
 }
@@ -592,7 +592,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .play-btn:hover::after {
-  border-left: 15px solid #d0b0f1;
+  border-left: 15px solid #550351;
   transform: scale(20);
 }
 
@@ -625,15 +625,15 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   line-height: 1;
   margin: 10px;
-  color: rgb(35, 3, 36);
+  color: white;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #550351;
+  border: 2px solid white;
 }
 
 #hero .about-btn:hover {
   /*background: #f82249;*/
-  background-color:#d4b7f4;
+  background-color:#550351;
   /*color: rgb(252, 245, 245);*/
 }
 
