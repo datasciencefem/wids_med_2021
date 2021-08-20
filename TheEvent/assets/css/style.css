@@ -468,6 +468,27 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
+ 
+.smalltext{
+  top: 0;
+  line-height: 100%;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  
+}
+
+.countdown > div{
+  display: inline-block;
+  margin: 0 30px;
+  padding-bottom: 70px;
+  text-align: center;
+  line-height: 100%;
+  font-size: 62px;
+  font-weight: 700;
+  color:white;
+}
+
 #hero {
   width: 100%;
   height: 100vh;
