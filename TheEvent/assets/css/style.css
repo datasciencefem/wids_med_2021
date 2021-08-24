@@ -147,16 +147,17 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #header {
   height: 90px;
-  /*position: fixed;*/
+  position: fixed;
   left: 0;
   top: 0;
   right: 0;
   transition: all 0.5s;
   z-index: 997;
+  background: #ffffff;
 }
 
 #header.header-scrolled, #header.header-inner {
- /* background:#d4b7f4  ;*/ 
+  background:#ffffff; 
   height: 70px;
 }
 
@@ -475,6 +476,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
   font-weight: bold;
   color: white;
+  
   
 }
 
