@@ -530,9 +530,21 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 15px;
 }
 
+@media (min-width: 992px) {
+  #hero .hero-container {
+    top: 150px;
+  }
+}
+
 @media (max-width: 991px) {
   #hero .hero-container {
-    top: 10px;
+    top: 100px;
+  }
+}
+
+@media (max-width: 367px) {
+  #hero .hero-container {
+    top: 130px;
   }
 }
 
