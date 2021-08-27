@@ -195,8 +195,7 @@ h6 {
   max-height: 80px;
   margin-bottom: 5px;
   margin-top: 19px;
-  /* margin-right: 50px;
-  margin-left: 10%; */
+
 
 }
 
@@ -211,12 +210,10 @@ h6 {
 --------------------------------------------------------------*/
 .buy-tickets {
   color: rgb(253, 253, 253);
-  /*background: #1e0229;*/
   background: #00b140;
   padding: 7px 22px;
   margin: 0 0 0 15px;
   border-radius: 50px;
-  /*border: 2px solid #220229;*/
   border: 2px solid #00b140;
   transition: all ease-in-out 0.3s;
   font-weight: 500;
