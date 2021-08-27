@@ -1659,9 +1659,9 @@ text-align: center;
 }
 
 #footer .footer-top {
-
+  height: 350px;
   background: #550351;
-  padding: 60px 0 30px 0;
+  padding: 20px 0 30px 0;
 }
 
 #footer .footer-top .footer-info {
@@ -1679,7 +1679,7 @@ text-align: center;
 }
 
 #footer .footer-top .footer-info img {
-  height: 70px;
+  height: 200px;
 }
 
 
