@@ -1053,7 +1053,7 @@ h6 {
   padding-top: 15px;
   padding-bottom: 15px;
   transition: background-color ease-in-out 0.3s;
-  min-height: 84px;
+  min-height: 30px;
 }
 
 #schedule .schedule-item:hover {
