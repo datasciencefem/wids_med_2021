@@ -36,9 +36,9 @@ p {
 .textoWids {
   color: white;
   width: 80%;
-  padding-left: 25%;
-  margin-top: 130px
+  margin: 77px auto 0 auto;
 }
+
 
 .Distancia-hora {
   margin-left: 7%;
@@ -519,7 +519,6 @@ h6 {
 
 #hero {
   width: 100%;
-  height: 100vh;
   background: url(../img/hero-bg.jpg) top center;
   background-size: cover;
   overflow: hidden;
@@ -543,7 +542,8 @@ h6 {
 }
 
 #hero .hero-container {
-  position: absolute;
+  padding-top: 140px;
+  padding-bottom: 20px;
   bottom: 0;
   left: 0;
   /* top: 0; */
@@ -553,7 +553,6 @@ h6 {
   align-items: center;
   flex-direction: column;
   text-align: center;
-  padding: 0 15px;
 }
 
 @media (min-width: 992px) {
@@ -1054,6 +1053,7 @@ h6 {
   padding-top: 15px;
   padding-bottom: 15px;
   transition: background-color ease-in-out 0.3s;
+  min-height: 84px;
 }
 
 #schedule .schedule-item:hover {
@@ -1691,6 +1691,10 @@ h6 {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
+.img-fluid{
+width: 100%;
+}
+
 #footer {
   background: white;
   padding: 0 0 25px 0;
@@ -1700,7 +1704,6 @@ h6 {
 }
 
 #footer .footer-top {
-  height: 350px;
   background: #550351;
   padding: 20px 0 30px 0;
 }
@@ -1720,7 +1723,8 @@ h6 {
 }
 
 #footer .footer-top .footer-info img {
-  height: 200px;
+  width: 100%;
+  max-width: 551px;
 }
 
 
